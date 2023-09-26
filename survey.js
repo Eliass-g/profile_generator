@@ -8,7 +8,7 @@ const user = {
   food: "",
   sport: "",
   superpower: ""
-}
+};
 
 const rl = readline.createInterface({
   input: process.stdin,
